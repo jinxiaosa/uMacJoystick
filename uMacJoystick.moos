@@ -1,0 +1,9 @@
+//------------------------------------------------
+// uMacJoystick config block
+
+ProcessConfig = uMacJoystick
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+
